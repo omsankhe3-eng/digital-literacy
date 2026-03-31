@@ -3,7 +3,7 @@ The Digital Literacy Project aims to empower individuals with the essential skil
 # 📘 Digital Literacy Project
 
 ## 👤 Student Details
-- Name: Niraj Yadav (BAI10741) 
+- Name: OM DHANESH SANKHE 25BCE11380
 - Branch: Computer Science Engineering (CSE)  
 - Year: 1st Year  
 
